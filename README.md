@@ -1,3 +1,5 @@
+Bare metal projects using FrameworkLibOpenCM3
+
 How to build PlatformIO based project
 =====================================
 

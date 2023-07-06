@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "gpio_common_f234.h": "c",
+        "rcc.h": "c",
+        "memorymap.h": "c",
+        "systick.h": "c"
+    },
+    "terminal.integrated.env.linux": {
+        "LD_PRELOAD": null
+    }
+
+}
