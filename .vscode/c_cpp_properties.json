@@ -25,7 +25,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60107",
+                "PLATFORMIO=60109",
                 "STM32F302x8",
                 "STM32F3",
                 "F_CPU=72000000L",
